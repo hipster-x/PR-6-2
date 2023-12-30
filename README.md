@@ -16,7 +16,8 @@
 
  2. Отправка эхо-запроса с ПК B на ПК А до настройки туннеля GRE
 
- ![Desktop Screenshot 2023 12 21 - 13 10 24 63](https://github.com/hipster-x/PR-6-2/assets/145153023/4eaf2dec-368f-422b-8116-3025f1d2462c)
+ ![292188033-4eaf2dec-368f-422b-8116-3025f1d2462c](https://github.com/hipster-x/PR-6-2/assets/145153023/f8ef1499-aeca-4412-9b2f-8bf4fa74606d)
+
 
 # 2. Настройка туннелей GRE
 
